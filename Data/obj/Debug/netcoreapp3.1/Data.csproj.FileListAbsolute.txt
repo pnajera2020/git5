@@ -1,0 +1,24 @@
+C:\Users\pnajera\source\repos\API_Productos\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\pnajera\source\repos\API_Productos\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\pnajera\source\repos\API_Productos\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\pnajera\source\repos\API_Productos\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\pnajera\source\repos\API_Productos\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\pnajera\source\repos\API_Productos\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\pnajera\source\repos\API_Productos\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\pnajera\source\repos\API_Productos\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\pnajera\source\repos\API_Productos\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\pnajera\source\repos\API_Productos\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\pnajera\source\repos\API_Productos\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\pnajera\source\repos\API_Productos\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache

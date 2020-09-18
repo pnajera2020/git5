@@ -1,0 +1,28 @@
+C:\Users\pnajera\source\repos\API_Productos\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\pnajera\source\repos\API_Productos\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\pnajera\source\repos\API_Productos\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\pnajera\source\repos\API_Productos\Business\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\pnajera\source\repos\API_Productos\Business\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\pnajera\source\repos\API_Productos\Business\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\pnajera\source\repos\API_Productos\Business\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\pnajera\source\repos\API_Productos\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\pnajera\source\repos\API_Productos\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\pnajera\source\repos\API_Productos\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\pnajera\source\repos\API_Productos\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\pnajera\source\repos\API_Productos\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\pnajera\source\repos\API_Productos\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\pnajera\source\repos\API_Productos\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Business\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Business\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Business\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Business\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\API_Productos\Business\obj\Debug\netcoreapp3.1\Business.pdb
